@@ -1,0 +1,1 @@
+REG DELETE "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\DriveIcons\R" /f
