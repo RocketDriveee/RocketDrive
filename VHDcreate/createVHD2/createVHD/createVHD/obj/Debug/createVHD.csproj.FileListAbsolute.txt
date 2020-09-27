@@ -1,0 +1,10 @@
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\obj\Debug\createVHD.csproj.CoreCompileInputs.cache
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\bin\Debug\RocketDrive.ico
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\bin\Debug\VHD.exe.config
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\bin\Debug\VHD.exe
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\bin\Debug\VHD.pdb
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\obj\Debug\VHD.exe
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\obj\Debug\VHD.pdb
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\bin\Debug\deleteEMD.bat
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\obj\Debug\createVHD.csprojAssemblyReference.cache
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\bin\Debug\change.ps1

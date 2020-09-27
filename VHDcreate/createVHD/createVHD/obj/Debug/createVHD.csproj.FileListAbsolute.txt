@@ -1,0 +1,8 @@
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\obj\Debug\createVHD.csprojAssemblyReference.cache
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\obj\Debug\createVHD.csproj.CoreCompileInputs.cache
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\bin\Debug\createVHD.exe.config
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\bin\Debug\createVHD.exe
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\bin\Debug\createVHD.pdb
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\obj\Debug\createVHD.exe
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\obj\Debug\createVHD.pdb
+E:\all\document\ProgectVisualStudio\C#\test\createVHD\createVHD\bin\Debug\RocketDrive.ico
